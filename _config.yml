@@ -25,7 +25,7 @@ url                      : "https://qkrwjdgnl.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "D:/01_jeonghwi/07_Github/qkrwjdgnl.github.io/assets/image/logo.jpg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/image/logo.jpg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -292,6 +292,6 @@ defaults:
       comments: # true
       share: true
       related: true
-      show date: true
+      show_date: true
     
 date_format: "%Y-%m-%d"
