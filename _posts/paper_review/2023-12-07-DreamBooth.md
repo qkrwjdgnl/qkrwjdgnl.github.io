@@ -32,7 +32,7 @@ classes: wide
 
 <figure align="center">
   <img src="{{ '/assets/image/DreamBooth/2.png' | relative_url }}" width="50%">
-  <figcaption style="color: grey;">왼쪽 부분은 미세 조정(Fine-Tuning) 부분, 오른쪽 부분은 추론(Inference) 부분</figcaption>
+  <figcaption style="text-align: center; color: grey;">왼쪽 부분은 미세 조정(Fine-Tuning) 부분, 오른쪽 부분은 추론(Inference) 부분</figcaption>
 </figure>
 
 대상의 이미지 약 3-5장을 기반으로 text-to-image diffusion model을 두 단계로 미세 조정합니다: 
