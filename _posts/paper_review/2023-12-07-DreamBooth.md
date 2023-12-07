@@ -7,11 +7,11 @@ classes: wide
   <img src="{{ '/assets/image/DreamBooth/0.jpg' | relative_url }}" width="50%">
 </figure>
 
-> 원문 링크: [Paper Link](https://dreambooth.github.io/)<br>
+> 원문 링크: [[Paper Link](https://dreambooth.github.io/)]<br>
 > 저자: Nataniel Ruiz, Yuanzhen Li, Varun Jampani, Yael Pritch, Michael Rubinstein, Kfir Aberman <br>
-> Google Research, Boston Univerity<br>
-> [Dataset](https://github.com/google/dreambooth)<br>
-> [BibTex](https://dreambooth.github.io/DreamBooth_files/bibtex.txt)<br>
+> [Google Research, Boston Univerity]<br>
+> [[Dataset](https://github.com/google/dreambooth)]<br>
+> [[BibTex](https://dreambooth.github.io/DreamBooth_files/bibtex.txt)]<br>
 > 번역자: Zhenghui Piao
 
 # Abstract 
