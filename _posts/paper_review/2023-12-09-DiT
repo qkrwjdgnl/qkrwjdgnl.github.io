@@ -1,0 +1,16 @@
+---
+title: "Scalable Diffusion Models with Transformers"
+classes: wide
+use_math: true
+---
+
+<figure align="center">
+  <img src="{{ '/assets/image/2023-12-09-DiT/0.png' | relative_url }}" width="50%">
+</figure>
+
+> **원문 링크**: [[paper](https://arxiv.org/pdf/2212.09748.pdf)]<br>
+> **저자**: William Peebles, Saining Xie<br>
+> [UC Berkeley, New York University]<br>
+> [[Github](https://github.com/facebookresearch/DiT)]<br>
+> [2 Mar 2023]<br>
+> **번역자**: Zhenghui Piao
